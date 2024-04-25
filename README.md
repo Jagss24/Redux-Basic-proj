@@ -1,8 +1,6 @@
-# React + Vite
+# React + Redux Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Today, I delved into Redux Toolkit! Watched a YT video, then built a project. Implemented it myself (ChatGPT is silent). It fetches data from an API. When you add an item to the cart, it stores in Redux. And when you remove from the cart, it's removed from the store. Once a item is added to the cart you can't add it again.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview of the Video
+### [Watch the preview of project](https://drive.google.com/file/d/1EyI0voZm-i9IiQNMj70sgnBswHk-hkfQ/view?usp=drive_link)
